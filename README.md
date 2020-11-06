@@ -1,5 +1,5 @@
 # Cotizador de Seguros con Reactjs
-Puede ver el [Deploy aqui](https://heuristic-swirles-77a02c.netlify.app/http:// "Deploy aqui")
+Puede ver el [Deploy aqui](https://heuristic-swirles-77a02c.netlify.app "Deploy aqui")
 
 Eliga una Marca de auto, el año y el tipo de plan, de acuerdo a su eleccion se mostrara el presupuesto del seguro para su auto. 
 
